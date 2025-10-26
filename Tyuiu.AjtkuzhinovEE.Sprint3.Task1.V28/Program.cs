@@ -1,4 +1,6 @@
 ﻿using Tyuiu.AjtkuzhinovEE.Sprint3.Task1.V28.Lib;
+
+namespace Tyuiu.AjtkuzhinovEE.Sprint3.Task1.V28;
 internal class Program  
 {
     private static void Main(string[] args)
@@ -12,7 +14,7 @@ internal class Program
         Console.WriteLine("* Вариант #28                                                             *");
         Console.WriteLine("* Выполнил: Айткужинов Елжас Есилбаевич | РППб-25-1 "                       );
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* УСЛОВИЕ:                                                                *");
+        Console.WriteLine("* УСЛОВИЕ:                                                                 *");
 
         Console.WriteLine("*Написать программу используя цикл while,которая вычисляет сумму ряда по  *");
         Console.WriteLine("*формуле , при а = 0.5                                                    *");
@@ -26,7 +28,7 @@ internal class Program
         int startValue = 1; // старт
         int stopValue = 18; // конец
 
-        Console.WriteLine("Переменная Х = " + value);
+        Console.WriteLine("Переменная а = " + value);
         Console.WriteLine("Старт шага = " + startValue);
         Console.WriteLine("Конец шага = " + stopValue);
 
