@@ -14,7 +14,7 @@ internal class Program
         Console.WriteLine("* Вариант #28                                                             *");
         Console.WriteLine("* Выполнил: Айткужинов Елжас Есилбаевич | РППб-25-1 "                       );
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* УСЛОВИЕ:                                                                 *");
+        Console.WriteLine("* УСЛОВИЕ:                                                                *");
 
         Console.WriteLine("*Написать программу используя цикл while,которая вычисляет сумму ряда по  *");
         Console.WriteLine("*формуле , при а = 0.5                                                    *");
