@@ -1,18 +1,10 @@
 ﻿using Tyuiu.AjtkuzhinovEE.Sprint3.Task1.V28.Lib;
 
-namespace Tyuiu.AjtkuzhinovEE.Sprint3.Task1.V28;
 internal class Program  
 {
     private static void Main(string[] args)
     {
-        Console.Title = "Спринт #3 | Выполнил: Айткужинов Елжас Есилбаевич | РППб-25-1";
-        //Длинна строки 75 символов
-        Console.WriteLine("***************************************************************************");
-        Console.WriteLine("* Спринт #3                                                               *");
-        Console.WriteLine("* Оператор цикла while                                                    *");
-        Console.WriteLine("* Задание #1                                                              *");
-        Console.WriteLine("* Вариант #28                                                             *");
-        Console.WriteLine("* Выполнил: Айткужинов Елжас Есилбаевич | РППб-25-1 "                       );
+        
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
 
